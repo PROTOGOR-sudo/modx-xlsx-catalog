@@ -1,0 +1,8 @@
+# Данные каталога (большой файл)
+catalog/data/catalog.json
+catalog/data/catalog.xlsx
+
+# Системные
+.DS_Store
+Thumbs.db
+*.log
